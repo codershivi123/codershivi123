@@ -1,3 +1,4 @@
+<img id="aa" src="pic.jpg" width="150px" align="right"></img>
 <h1 align="center">Hi 👋, I'm Shivani Rathore</h1>
 <h3 align="center">I am a undergraduate information technology student<h3>
 
