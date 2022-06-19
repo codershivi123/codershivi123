@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivani Rathore</h1>
 <h3 align="center">I am a undergraduate information technology student.</h3>
+<img align="right" alt="coding" width="400" src=https://www.shutterstock.com/search/coding+cartoon">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codershivi123&label=Profile%20views&color=0e75b6&style=flat" alt="codershivi123" /> </p>
 
