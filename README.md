@@ -1,78 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shivani Rathore</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-  <style>
-    body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    color: #333;
-    background-color: #f4f4f4;
-}
 
-header {
-    background-color: #333;
-    color: #fff;
-    padding: 1rem 0;
-    text-align: center;
-}
 
-h1, h2 {
-    margin: 0;
-    padding: 1rem 0;
-}
-
-section {
-    padding: 1rem;
-    margin: 1rem;
-    background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-.skills {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.skills span {
-    background-color: #333;
-    color: #fff;
-    padding: 0.5rem;
-    margin: 0.5rem;
-    border-radius: 4px;
-}
-
-a {
-    color: #0066cc;
-}
-
-a:hover {
-    text-decoration: none;
-}
-
-ul {
-    list-style: none;
-    padding: 0;
-}
-
-ul li {
-    padding: 0.5rem 0;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
-}
-
-  </style>
-<body>
     <header>
         <h1>Hi there, I'm Shivani Rathore 👋</h1>
     </header>
@@ -114,5 +41,4 @@ img {
         </ul>
     </section>
     
-</body>
-</html>
+
