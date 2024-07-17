@@ -1,7 +1,7 @@
 # Hi there, I'm Shivani Rathore 👋
 
 ## 🚀 About Me
-- 🔭 I’m completed my Internship at[Mastek](https://www.mastek.com/))
+- 🔭 I’m completed my Internship at[Mastek](https://www.mastek.com/)
 - 🌱 I’m currently learning advanced web development techniques
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about Java Full Stack Development, Software Engineering, and Data Structures
