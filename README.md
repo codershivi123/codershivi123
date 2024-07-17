@@ -1,28 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shivani Rathore</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+  <style>
+    body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f4f4f4;
+}
 
-<h1 align="center">Hi 👋, I'm Shivani Rathore</h1>
-<h3 align="center">I am a undergraduate information technology student<h3>
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codershivi123&label=Profile%20views&color=0e75b6&style=flat" alt="codershivi123" /> </p>
+h1, h2 {
+    margin: 0;
+    padding: 1rem 0;
+}
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codershivi123" alt="codershivi123" /></a> </p>
+section {
+    padding: 1rem;
+    margin: 1rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+}
 
-- 🌱 I’m currently learning **web development**
+.skills span {
+    background-color: #333;
+    color: #fff;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    border-radius: 4px;
+}
 
-- 📫 How to reach me **shivani.03rathore@gmail.com**
+a {
+    color: #0066cc;
+}
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/shivani-rathore-a73095219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shivani-rathore-a73095219" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shivani_03ratho1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shivani_03ratho1" height="30" width="40" /></a>
-</p>
+a:hover {
+    text-decoration: none;
+}
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+ul {
+    list-style: none;
+    padding: 0;
+}
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codershivi123&show_icons=true&locale=en&layout=compact" alt="codershivi123" /></p>
+ul li {
+    padding: 0.5rem 0;
+}
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codershivi123&show_icons=true&locale=en" alt="codershivi123" /></p>
+img {
+    max-width: 100%;
+    height: auto;
+}
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codershivi123&" alt="codershivi123" /></p>
+  </style>
+<body>
+    <header>
+        <h1>Hi there, I'm Shivani Rathore 👋</h1>
+    </header>
+    <section id="about">
+        <h2>🚀 About Me</h2>
+        <ul>
+            <li>🔭 I’m currently working at <a href="https://cognifyz.com">Cognifyz</a></li>
+            <li>🌱 I’m currently learning advanced web development techniques</li>
+            <li>👯 I’m looking to collaborate on open-source projects</li>
+            <li>💬 Ask me about Java Full Stack Development, Software Engineering, and Data Structures</li>
+            <li>📫 How to reach me: <a href="mailto:shivani.03rathore@gmail.com">shivani.03rathore@gmail.com</a></li>
+            <li>⚡ Fun fact: I love solving coding challenges on HackerRank</li>
+        </ul>
+    </section>
+    <section id="skills">
+        <h2>🛠️ Skills</h2>
+        <div class="skills">
+            <span>Java</span>
+            <span>Python</span>
+            <span>JavaScript</span>
+            <span>HTML</span>
+            <span>CSS</span>
+            <span>SQL</span>
+            <span>GitHub</span>
+        </div>
+    </section>
+    <section id="stats">
+        <h2>📈 GitHub Stats</h2>
+        <img src="https://github-readme-stats.vercel.app/api?username=ShivaniRathore&show_icons=true&theme=radical" alt="GitHub Stats">
+    </section>
+    <section id="resume">
+        <h2>📄 Resume</h2>
+        <p>You can view my resume <a href="Shivani_Rathore_Resume.pdf">here</a>.</p>
+    </section>
+    <section id="connect">
+        <h2>📫 Connect with me</h2>
+        <ul>
+            <li><a href="https://www.linkedin.com/in/shivani-rathore-a73095219/">LinkedIn</a></li>
+        </ul>
+    </section>
+    
+</body>
+</html>
