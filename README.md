@@ -1,44 +1,24 @@
+# Hi there, I'm Shivani Rathore 👋
 
+## 🚀 About Me
+- 🔭 I’m currently working at [Cognifyz](https://cognifyz.com)
+- 🌱 I’m currently learning advanced web development techniques
+- 👯 I’m looking to collaborate on open-source projects
+- 💬 Ask me about Java Full Stack Development, Software Engineering, and Data Structures
+- 📫 How to reach me: [shivani.03rathore@gmail.com](mailto:shivani.03rathore@gmail.com)
+- ⚡ Fun fact: I love solving coding challenges on HackerRank
 
-    <header>
-        <h1>Hi there, I'm Shivani Rathore 👋</h1>
-    </header>
-    <section id="about">
-        <h2>🚀 About Me</h2>
-        <ul>
-            <li>🔭 I’m currently working at <a href="https://cognifyz.com">Cognifyz</a></li>
-            <li>🌱 I’m currently learning advanced web development techniques</li>
-            <li>👯 I’m looking to collaborate on open-source projects</li>
-            <li>💬 Ask me about Java Full Stack Development, Software Engineering, and Data Structures</li>
-            <li>📫 How to reach me: <a href="mailto:shivani.03rathore@gmail.com">shivani.03rathore@gmail.com</a></li>
-            <li>⚡ Fun fact: I love solving coding challenges on HackerRank</li>
-        </ul>
-    </section>
-    <section id="skills">
-        <h2>🛠️ Skills</h2>
-        <div class="skills">
-            <span>Java</span>
-            <span>Python</span>
-            <span>JavaScript</span>
-            <span>HTML</span>
-            <span>CSS</span>
-            <span>SQL</span>
-            <span>GitHub</span>
-        </div>
-    </section>
-    <section id="stats">
-        <h2>📈 GitHub Stats</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=ShivaniRathore&show_icons=true&theme=radical" alt="GitHub Stats">
-    </section>
-    <section id="resume">
-        <h2>📄 Resume</h2>
-        <p>You can view my resume <a href="Shivani_Rathore_Resume.pdf">here</a>.</p>
-    </section>
-    <section id="connect">
-        <h2>📫 Connect with me</h2>
-        <ul>
-            <li><a href="https://www.linkedin.com/in/shivani-rathore-a73095219/">LinkedIn</a></li>
-        </ul>
-    </section>
-    
+## 🛠️ Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+## 📈 GitHub Stats
+![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivaniRathore&show_icons=true&theme=radical)
+
+## 📄 Resume
+You can view my resume [here](Shivani_Rathore_Resume.pdf).
+
+## 📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/shivani-rathore-a73095219/)
